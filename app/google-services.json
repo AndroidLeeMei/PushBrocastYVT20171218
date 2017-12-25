@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "734002950926",
+    "firebase_url": "https://pushbrocastyvt20171218.firebaseio.com",
+    "project_id": "pushbrocastyvt20171218",
+    "storage_bucket": "pushbrocastyvt20171218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734002950926:android:bca3fe9ff6dd908a",
+        "android_client_info": {
+          "package_name": "com.example.auser.pushbrocastyvt20171218"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734002950926-2tu89l3s0njtouanvj6mk9borbvdnt32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auser.pushbrocastyvt20171218",
+            "certificate_hash": "248ffd6e2a728c0b3de6d34cb26c1d79c9ff3b86"
+          }
+        },
+        {
+          "client_id": "734002950926-faeppnt6mqelle3ll6rl4eqft9vaom86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7fmwF3lbXBK466wZh8BIP3WPodjuWZf4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734002950926-faeppnt6mqelle3ll6rl4eqft9vaom86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
